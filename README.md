@@ -3,7 +3,7 @@
 
 ## Make it executable
 
-chmod +x start-vpn.py
+sudo chmod +x start-vpn.py
 
 ## Run it as root:
 
