@@ -48,3 +48,5 @@ pip install numpy pandas matplotlib scipy openpyxl streamlit scikit-learn report
 
 # 5. Run the Application
 uvicorn web:app --host 0.0.0.0 --port 8000
+
+### Buy me a coffee @PAYPAL increasegodwin1@gmail.com
